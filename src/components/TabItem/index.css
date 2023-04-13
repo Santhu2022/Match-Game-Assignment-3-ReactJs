@@ -1,0 +1,15 @@
+.tab-button {
+  font-family: 'Roboto';
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  font-weight: 500;
+  border-bottom: 3px solid transparent;
+  width: 70px;
+  padding: 8px 8px;
+  font-size: 15px;
+}
+.active-tab-btn{
+    color: #fec653;
+    border-bottom: 3px solid #fec653;
+}
